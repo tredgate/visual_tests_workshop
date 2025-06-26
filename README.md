@@ -25,3 +25,5 @@ Testy můžete spustit pomocí příkazu `npx playwright test`.
 Testy se spustí v prohlížeči, který je nastavený v souboru `playwright.config.ts`.
 
 Při prvním spuštění dojde k pádu z důvodu vytváření snapshotů. V druhém spuštění se snapshoty pro vizuální testy již použijí a testy by měly proběhnout úspěšně.
+
+V repozitáři jsou také vzorové neúspěšné testy, pro úspěšné dokončení této testovací sady je potřeba testy přeskočit pomocí anotace skip: `test.skip()`
