@@ -1,6 +1,6 @@
 # Vizuální testování v Playwright
 
-Tento repozitář je připraven pro Meetup skupiny [\[pro:\]TEST!](https://www.meetup.com/protest_cz/events/305716848)
+Tento repozitář je připraven pro workshopy společnosti [Tredgate](https://www.tredgate.cz)
 
 ## Instalace
 
